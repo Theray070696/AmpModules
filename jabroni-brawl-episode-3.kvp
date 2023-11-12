@@ -1,7 +1,7 @@
 Meta.DisplayName=Jabroni Brawl: Episode 3
 Meta.Description=The greatest shooter of all time (SRCDS mod)
 Meta.Arch=x86_64
-Meta.Author=RantingRaymond - Made with AMP Config Generator
+Meta.Author=Theray070696 - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=cubecoders/ampbase:wine
