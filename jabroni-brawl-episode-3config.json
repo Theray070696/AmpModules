@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Starting Map",
+        "Category": "Server Settings",
+        "Description": "The map that's initially loaded on server start",
+        "Keywords": "starting,map",
+        "FieldName": "map",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "map",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "crossfire",
+        "Placeholder": "crossfire",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
